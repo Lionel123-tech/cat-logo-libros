@@ -13,8 +13,7 @@
 
     <h2>Tecnologías</h2>
     <ul>
-      <li>Vue 3 con Composition API</li>
-      <li>Vue Router 4 (modo history)</li>
+      <li>Vue 3</li>
       <li>Firebase Hosting</li>
       <li>Cloud Firestore</li>
       <li>Vite como bundler</li>
