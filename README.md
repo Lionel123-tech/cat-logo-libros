@@ -6,8 +6,8 @@ Aplicación web dinámica desarrollada con Vue 3, Vue Router y Cloud Firestore p
 Se trata de un catálogo de libros interactivo. La aplicación permite navegar entre diferentes vistas y consultar en tiempo real los libros almacenados en la nube (Cloud Firestore). 
 
 ## Tecnologías utilizadas
-- **Vue 3** (Composition API, `<script setup>`)
-- **Vue Router 4** (Modo history)
+- **Vue**
+- **Vue Router**
 - **Cloud Firestore** (Base de datos NoSQL)
 - **Firebase Hosting** (Despliegue)
 - **Vite** (Empaquetador)
