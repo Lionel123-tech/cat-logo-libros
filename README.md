@@ -14,7 +14,7 @@ Se trata de un catálogo de libros interactivo. La aplicación permite navegar e
 
 ## Instalación y ejecución local
 Para ejecutar este proyecto en local, sigue estos pasos:
-1. Clona el repositorio: `git clone https://github.com/TU_USUARIO/catalogo-libros.git`
+1. Clona el repositorio: `git clone https://github.com/Lionel123-tech/catalogo-libros.git`
 2. Entra en la carpeta: `cd catalogo-libros`
 3. Instala las dependencias: `npm install`
 4. Inicia el servidor de desarrollo: `npm run dev`
