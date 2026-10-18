@@ -1,0 +1,40 @@
+<script setup>
+</script>
+
+<template>
+  <section class="about">
+    <h1>Sobre el proyecto</h1>
+    <p>
+      Este catálogo de libros es una aplicación web desarrollada con
+      <strong>Vue 3</strong>, <strong>Vue Router</strong> y
+      <strong>Cloud Firestore</strong> para la asignatura
+      <em>Web Dinámica</em> del Grado en Diseño Digital y Tecnologías Creativas.
+    </p>
+
+    <h2>Tecnologías</h2>
+    <ul>
+      <li>Vue 3 con Composition API</li>
+      <li>Vue Router 4 (modo history)</li>
+      <li>Firebase Hosting</li>
+      <li>Cloud Firestore</li>
+      <li>Vite como bundler</li>
+    </ul>
+
+    <h2>Componentes propios</h2>
+    <ul>
+      <li><strong>NavBar</strong> — barra de navegación con RouterLink.</li>
+      <li><strong>BookCard</strong> — tarjeta de un libro (recibe props).</li>
+      <li><strong>BookList</strong> — lista de libros (recibe props del padre).</li>
+      <li><strong>LoadingSpinner</strong> — indicador de carga.</li>
+      <li><strong>ErrorMessage</strong> — mensaje de error.</li>
+    </ul>
+  </section>
+</template>
+
+<style scoped>
+.about { max-width: 700px; margin: 0 auto; }
+.about h1 { font-size: 1.8rem; margin-bottom: 1rem; color: #1a1a2e; }
+.about h2 { font-size: 1.2rem; margin-top: 1.8rem; margin-bottom: 0.6rem; color: #33334d; }
+.about p, .about li { color: #555; line-height: 1.6; }
+.about ul { padding-left: 1.2rem; }
+</style>
