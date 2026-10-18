@@ -23,8 +23,8 @@
     <h2>Componentes propios</h2>
     <ul>
       <li><strong>NavBar</strong> — barra de navegación con RouterLink.</li>
-      <li><strong>BookCard</strong> — tarjeta de un libro (recibe props).</li>
-      <li><strong>BookList</strong> — lista de libros (recibe props del padre).</li>
+      <li><strong>BookCard</strong> — tarjeta de un libro.</li>
+      <li><strong>BookList</strong> — lista de libros.</li>
       <li><strong>LoadingSpinner</strong> — indicador de carga.</li>
       <li><strong>ErrorMessage</strong> — mensaje de error.</li>
     </ul>
