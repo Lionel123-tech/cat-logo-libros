@@ -2,7 +2,6 @@
 </script>
 
 <template>
-  <h1 style="color: red; font-size: 50px;">¡PRUEBA 123!</h1>
   <section class="about">
     <h1>Sobre el proyecto</h1>
     <p>
