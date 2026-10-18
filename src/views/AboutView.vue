@@ -6,14 +6,15 @@
     <h1>Sobre el proyecto</h1>
     <p>
       Este catálogo de libros es una aplicación web desarrollada con
-      <strong>Vue</strong> y
+      <strong>Vue</strong>, <strong>Vue Router</strong> y
       <strong>Cloud Firestore</strong> para la asignatura
       <em>Web Dinámica</em> del Grado en Diseño Digital y Tecnologías Creativas.
     </p>
     
     <h2>Tecnologías</h2>
     <ul>
-      <li>Vue 3</li>
+      <li>Vue</li>
+      <li>Vue Router</li>
       <li>Firebase Hosting</li>
       <li>Cloud Firestore</li>
       <li>Vite como bundler</li>
