@@ -2,15 +2,16 @@
 </script>
 
 <template>
+  <h1 style="color: red; font-size: 50px;">¡PRUEBA 123!</h1>
   <section class="about">
     <h1>Sobre el proyecto</h1>
     <p>
       Este catálogo de libros es una aplicación web desarrollada con
-      <strong>Vue 3</strong>, <strong>Vue Router</strong> y
+      <strong>Vue</strong> y
       <strong>Cloud Firestore</strong> para la asignatura
       <em>Web Dinámica</em> del Grado en Diseño Digital y Tecnologías Creativas.
     </p>
-
+    
     <h2>Tecnologías</h2>
     <ul>
       <li>Vue 3</li>
